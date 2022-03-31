@@ -1,0 +1,4 @@
+De acordo com as tarefas necessárias no decorrer do projeto, e as caracteristicas dos dados coletados,
+oriento a armazena-los em banco de dados SQL. Isso porque os dados estão semi-estruturados, de forma que
+as tarefas de transformação e organização não tomarão muito tempo. Assim, posteriormente será possivel fazer
+consultas com linguagem SQL, visto que esta permite uma simplicidade maior em scripts de busca.
